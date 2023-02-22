@@ -52,7 +52,7 @@
         app:layout_constraintVertical_bias="0.33"/>
 
     <Button
-        android:id="@+id/btnStop"
+        android:id="@+id/btnSave"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:background="@drawable/btn_rec_stop"
@@ -131,7 +131,7 @@
         app:layout_constraintVertical_bias="0.9"/>
 
     <Button
-        android:id="@+id/btnStopPlay"
+        android:id="@+id/btnStop"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:background="@drawable/btn_rec_stop_play"

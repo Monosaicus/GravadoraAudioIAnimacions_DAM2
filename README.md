@@ -1,5 +1,6 @@
 # AndroidRecorder
 > <b>Author: Nicola De Nicolais</b>
+> <b>Modified By: Aleix Urbano</b>
 
 ## Screen preview
 <p float="left">
